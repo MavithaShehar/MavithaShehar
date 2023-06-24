@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shehar Shehar Mavitha</h1>
 <h3 align="center">Software Engineer</h3>
-<image = srs"https://www.google.com/search?q=web+diwalopmant&tbm=isch&ved=2ahUKEwi5gbCpvdv_AhXAu2MGHQnBC1QQ2-cCegQIABAA&oq=web+diwalopmant&gs_lcp=CgNpbWcQAzoECCMQJzoHCAAQigUQQzoFCAAQgAQ6BggAEAcQHjoGCAAQCBAeOgYIABAFEB5Q5QVY-DVggDxoAHAAeAGAAdkBiAG0GJIBBjAuMTQuM5gBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=A6iWZPnzEMD3juMPiYKvoAU&bih=623&biw=1366&rlz=1C1GCEC_enLK1022LK1022#imgrc=-X3tNESU2SGI_M">
+<img src="https://img.freepik.com/free-vector/low-code-development-concept-illustration_114360-7294.jpg">
 
 - 🔭 I’m currently working on **Student**
 

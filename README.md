@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shehar Shehar Mavitha</h1>
 <h3 align="center">Software Engineer</h3>
-<img src="https://img.freepik.com/free-vector/low-code-development-concept-illustration_114360-7294.jpg">
+<img src="[https://img.freepik.com/free-vector/low-code-development-concept-illustration_114360-7294.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.analyticsinsight.net%2Fthe-role-of-artificial-intelligence-in-web-development-process%2F&psig=AOvVaw2PQHWkHW0ITUer0F_m1LXz&ust=1687681422617000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCND5-rG92_8CFQAAAAAdAAAAABAE)">
 
 - 🔭 I’m currently working on **Student**
 
